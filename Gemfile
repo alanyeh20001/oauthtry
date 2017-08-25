@@ -34,6 +34,8 @@ gem "devise"
 
 gem "rack-oauth2"
 
+gem 'doorkeeper'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
